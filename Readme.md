@@ -5,7 +5,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/FunSkrip/Calculator_Game.git
-   cd Calculator
+   cd calculator
 2. Установите зависимости через Composer:
     ```bash
     composer install
